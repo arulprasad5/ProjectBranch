@@ -1,6 +1,6 @@
 package org.hcl;
 
-public class Class1 {
+public class Class2 {
 	private void method1() {
 		System.out.println("m1");
 	}
@@ -10,5 +10,4 @@ public class Class1 {
 	private void method3() {
 		System.out.println("m3");
 	}
-
 }
